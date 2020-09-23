@@ -94,7 +94,6 @@ LOCAL_SHARED_LIBRARIES += libnfnetlink
 LOCAL_SHARED_LIBRARIES += libnetfilter_conntrack
 LOCAL_SHARED_LIBRARIES += libhwbinder \
                 libhidlbase \
-                libhidltransport \
                 liblog \
                 libcutils \
                 libdl \
